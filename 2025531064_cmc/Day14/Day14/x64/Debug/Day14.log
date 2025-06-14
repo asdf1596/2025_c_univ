@@ -1,0 +1,6 @@
+﻿  MemoryAllocation.c
+D:\2025531064_cmc\Day14\Day14\MemoryAllocation.c(21,3): warning C4098: 'memoryAllocTest': 'void' 함수에서 값을 반환하고 있습니다.
+D:\2025531064_cmc\Day14\Day14\MemoryAllocation.c(34,3): warning C4098: 'memoryAllocTest': 'void' 함수에서 값을 반환하고 있습니다.
+D:\2025531064_cmc\Day14\Day14\MemoryAllocation.c(56,3): warning C4098: 'reAllocTest': 'void' 함수에서 값을 반환하고 있습니다.
+D:\2025531064_cmc\Day14\Day14\MemoryAllocation.c(69,3): warning C4098: 'reAllocTest': 'void' 함수에서 값을 반환하고 있습니다.
+  Day14.vcxproj -> D:\2025531064_cmc\Day14\x64\Debug\Day14.exe
